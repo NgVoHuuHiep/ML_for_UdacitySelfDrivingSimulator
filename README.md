@@ -1,6 +1,7 @@
 My first capstone project developed a python-based lane detection algorithm, which used traditional computer vision techniques to identify road lanes and lines. Now, in this second capstone project, I am advancing to “Application of Computer Vision and Machine Learning for Autonomous Driving Control in Udacity Self Driving Simulator”.
 
 Check this Youtuber for more information. Credit to this guy: https://youtube.com/playlist?list=PLkz_y24mlSJawbZz-fJrrxZi0QNmJ5aP6&si=2idSVXM4PapSGeHb
+Also check this GitHub: https://github.com/entbappy/Complete-Self-Driving-Car
 
 HOW TO SETUP?
 
